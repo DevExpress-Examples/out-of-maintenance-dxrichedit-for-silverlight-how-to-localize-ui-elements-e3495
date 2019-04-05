@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [App.xaml.cs](./CS/App.xaml.cs)
-* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: How to localize UI elements
